@@ -23,8 +23,8 @@ Installation:
 8. Enter your PayGate Seceret Key, it must the same with the secret key you entered on PayGate admin.
 9. Set the Status to enabled.
 10. Set the Completion Status to the status that you require the order to be set to if the payment succeeds.
-10. Set the Denied Status to the status that you require the order to be set to if the payment is declined.
-11. Set the Failed Status to the status that you require the order to be set to if the payment fails.
+11. Set the Denied Status to the status that you require the order to be set to if the payment is declined.
+12. Set the Failed Status to the status that you require the order to be set to if the payment fails.
 13. Once you have completed your testing simply enter the PayGate Merchant ID instead of the Test ID.
 
 Done.
